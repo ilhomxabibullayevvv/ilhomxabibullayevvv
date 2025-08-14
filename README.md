@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Ilhom 👋</h1>
 
 <p align="center">
-  I am interested in web applications based on <strong>React</strong> and <strong>JavaScript</strong>.<br />
+  <strong>React.js Frontend Developer</strong> with a passion for building modern, responsive, and user-friendly web applications.<br />
   I love learning new technologies and solving complex problems.<br />
-  I always help people improve usability, efficiency and code.
+  I'm always helping teams improve usability, efficiency, and code quality.
 </p>
 
 ---
@@ -11,6 +11,7 @@
 ### 🧠 About Me
 
 - 🎓 React.js bo‘yicha bitirganman — Najot Ta’lim
+- 💼 Asosan **Frontend yo‘nalishida, React.js ekotizimi** bilan ishlayman
 - 🌱 Hozirda chuqurroq **TypeScript**, **React Query**, **i18n**, va **Next.js** o‘rganmoqdaman
 - 🤝 Open-source loyihalarda qatnashishga tayyorman
 - 🧩 Frontend texnologiyalariga ishtiyoqmandman
@@ -58,6 +59,9 @@
   </a>
   <a href="https://www.linkedin.com/in/ilhom-xabibullayev-107199358/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ilhomxabibullayevvv" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
