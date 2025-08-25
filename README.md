@@ -55,8 +55,7 @@ I am interested in web applications based on <strong>React</strong> and <strong>
 
 ## 🧩 Projects & Portfolio
 
-🚧 Loyiha va portfolio linklarini keyinchalik shu bo‘limga qo‘shish mumkin.  
-Tayyor bo‘lganingizda bu joyga screenshot, demo link, va texnologiyalar bilan yozib beraman.
+
 
 ---
 
