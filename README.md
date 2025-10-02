@@ -55,8 +55,6 @@ I am interested in web applications based on <strong>React</strong> and <strong>
 
 ## 🧩 Projects & Portfolio
 
-🔗 [My Portfolio Website](https://portfolio-gray-theta-73.vercel.app/)
-
 ---
 
 <p align="center">Thanks for visiting my profile! 🌟</p>
