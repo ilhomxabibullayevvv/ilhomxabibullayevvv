@@ -42,7 +42,7 @@ I enjoy learning new technologies, solving complex problems, and improving usabi
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://t.me/ilhomxabibullayev" target="_blank">
+  <a href="https://t.me/ilhomxabibullayevvv" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ilhom-xabibullayev-107199358/" target="_blank">
