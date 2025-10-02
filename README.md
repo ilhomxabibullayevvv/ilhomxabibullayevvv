@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-I am passionate about building modern web applications using <strong>React</strong> and <strong>JavaScript</strong>.  
+I am passionate about building modern web applications using <strong>React</strong> and <strong>Next</strong>.  
 I enjoy learning new technologies, solving complex problems, and improving usability, efficiency, and code quality.  
 
 🎓 Graduated in React.js at Najot Ta’lim  
