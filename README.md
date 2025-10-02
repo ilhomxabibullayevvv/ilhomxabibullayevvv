@@ -8,12 +8,14 @@
 
 ## 🧑‍💻 About Me
 
-I am interested in web applications based on <strong>React</strong> and <strong>JavaScript</strong>. I love learning new technologies and solving complex problems. I always help people improve usability, efficiency and code.<br /><br />
-🎓 React.js bo‘yicha bitirganman — Najot Ta’lim  
-💼 Asosan <strong>Frontend</strong> yo‘nalishida, <strong>React.js ekotizimi</strong> bilan ishlayman  
-🌱 Hozirda chuqurroq <strong>Next.js</strong> o‘rganmoqdaman  
-🤝 Open-source loyihalarda qatnashishga tayyorman  
-💡 Yangi texnologiyalarni o‘rganishni va bilim ulashishni yaxshi ko‘raman  
+I am passionate about building modern web applications using <strong>React</strong> and <strong>JavaScript</strong>.  
+I enjoy learning new technologies, solving complex problems, and improving usability, efficiency, and code quality.  
+
+🎓 Graduated in React.js at Najot Ta’lim  
+💼 Focused mainly on <strong>Frontend Development</strong> with the <strong>React.js ecosystem</strong>  
+🌱 Currently diving deeper into <strong>Next.js</strong>  
+🤝 Open to contributing to open-source projects  
+💡 I love learning new technologies and sharing knowledge with others  
 
 ---
 
