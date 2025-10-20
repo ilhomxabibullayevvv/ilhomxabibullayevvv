@@ -13,7 +13,7 @@ I enjoy learning new technologies, solving complex problems, and improving usabi
 
 🎓 Graduated in React.js at Najot Ta’lim  
 💼 Focused mainly on <strong>Frontend Development</strong> with the <strong>React.js ecosystem</strong>  
-🌱 Currently diving deeper into <strong>Next.js</strong>  
+🌱 Currently diving deeper into <strong>Vue.js</strong>  
 🤝 Open to contributing to open-source projects  
 💡 I love learning new technologies and sharing knowledge with others  
 
