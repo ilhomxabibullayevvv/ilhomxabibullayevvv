@@ -22,7 +22,7 @@ I enjoy learning new technologies, solving complex problems, and improving usabi
 ## 🚀 Technologies I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,reactquery,bootstrap,vercel,netlify,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,nextjs,github" />
 </p>
 
 ---
