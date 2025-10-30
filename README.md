@@ -55,8 +55,4 @@ I enjoy learning new technologies, solving complex problems, and improving usabi
 
 ---
 
-## 🧩 Projects & Portfolio
-
----
-
 <p align="center">Thanks for visiting my profile! 🌟</p>
