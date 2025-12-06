@@ -30,11 +30,11 @@ I enjoy learning new technologies, solving complex problems, and improving usabi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhomxabibullayevvv&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilhomxabibullayevvv&show_icons=true&theme=radical&count_private=true&hide=issues" alt="Ilhom GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhomxabibullayevvv&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhomxabibullayevvv&layout=compact&theme=radical" alt="Ilhom Top Languages" />
 </p>
 
 ---
@@ -55,4 +55,5 @@ I enjoy learning new technologies, solving complex problems, and improving usabi
 
 ---
 
-<p align="center">Thanks for visiting my profile! 🌟</p>
+<p align="center">Thanks for visiting my profile! 🌟</p> 
+
