@@ -38,9 +38,9 @@ I enjoy learning new technologies, solving complex problems, and improving usabi
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
-    <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" />
   </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
   </a>
   <a href="https://github.com/ilhomxabibullayevvv" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
