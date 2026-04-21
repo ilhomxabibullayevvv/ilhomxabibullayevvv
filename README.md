@@ -42,6 +42,12 @@ I enjoy learning new technologies, solving complex problems, and improving usabi
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
   <a href="https://react.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
