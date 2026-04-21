@@ -14,11 +14,6 @@
 I am passionate about building modern web applications using **React** and **Next.js**.  
 I enjoy learning new technologies, solving complex problems, and improving usability and code quality.
 
-🎓 Graduated in React.js at Najot Ta’lim  
-💼 Frontend Developer (React ecosystem)  
-🌱 Currently learning **Vue.js**  
-🤝 Open to open-source contributions  
-
 ---
 
 ## 🚀 Technologies I Work With
